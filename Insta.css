@@ -169,7 +169,8 @@ padding-left: auto;
   padding: 10px;
   border-radius: 8px;
   background: var(--gradient);
-  margin-left: 1rem;
+  margin-left: 2rem;
+  width: 108%;
 }
 .header-content .btn i {
   color: hsla(180, 14%, 83%, 0.6);
